@@ -16,5 +16,5 @@ implemented using the Altera DE-1 board.
 
 ## Contributors
 - Belachew Haile-Mariam
-	[(GitHub)](www.github.com)
-	[(LinkedIn)](www.linkedin.com)
+	[(GitHub)](https://github.com/belachewhm)
+	[(LinkedIn)](https://www.linkedin.com/in/belachew-haile-mariam-02259165)
