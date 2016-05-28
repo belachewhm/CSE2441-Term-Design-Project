@@ -13,3 +13,8 @@ and does not produce any unwanted or undefined outputs.
 The final implementation of this project was designed using the Quartus II
 software, tested thoroughly using the QSim Simulation Software, and
 implemented using the Altera DE-1 board.
+
+## Contributors
+- Belachew Haile-Mariam
+	[(GitHub)](www.github.com)
+	[(LinkedIn)](www.linkedin.com)
